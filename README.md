@@ -1,3 +1,5 @@
+# This project has moved to [AccountingApp](https://github.com/proohit/accountingapp) and is no longer maintained in this repository
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
